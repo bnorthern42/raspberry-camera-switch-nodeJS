@@ -65,7 +65,7 @@ try{
 
 	  
 }catch(err){
-	console.log("JPG removal error, possibly not found");
+	console.log("error, in interrupt");
 	console.error(err);
 }
 
